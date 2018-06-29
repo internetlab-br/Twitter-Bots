@@ -63,7 +63,6 @@ for seguidor in lista:
         print (str(count) + ":\t" + result['user']['screen_name'] + "  " + str(result['cap']['universal']))
         update_pessoa(seguidor[0], result['cap']['universal'])
     except Exception as inst:
-        # print (str(seguidor[0]) + "\t\tsem score")
         print (seguidor[0])
         update_pessoa(seguidor[0], -1)
         print (inst)
