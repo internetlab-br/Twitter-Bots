@@ -10,6 +10,9 @@ O relatório completo está disponível aqui: link
 Como reproduzir a pesquisa
 --------------------------
 
++ Crie um app para o Twitter em https://apps.twitter.com/, você vai precisar da autenticação que ele fornece
++ Crie uma chave na API do *botometer* em https://market.mashape.com/OSoMe/botometer você vai precisar da chave dela também
++ Complete os códigos com as chaves criadas para o Twitter e para o *botometer*
 + Crie a base de dados utilizando os comandos de criação de tabela disponíveis em database.sql.
 + Insira na tabela politicos, os perfis de interesse para análise com comandos apropriados no SQL
    + Alguns elementos não podem ser nulos: id, grafo, seguidores e buscar
