@@ -3,9 +3,9 @@ BOTS e Perfis do Twitter
 
 Aqui estão os códigos utilizados para a realização da pesquisa sobre bots seguindo os pré-candidatos à presidência da república.
 
-Os principais resultados estão aqui: link
+Os principais resultados estão aqui: http://www.internetlab.org.br/pt/informacao-e-politica/bot-ou-nao-quem-segue-os-candidatos-presidente/
 
-O relatório completo está disponível aqui: link
+O relatório completo está disponível aqui: http://www.internetlab.org.br/wp-content/uploads/2018/07/Relat%C3%B3rio-Bots-ou-n%C3%A3o.pdf
 
 Como reproduzir a pesquisa
 --------------------------
